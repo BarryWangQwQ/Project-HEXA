@@ -14,4 +14,4 @@
 
 | **Model**  | Get Link              |
 | ------- | ----------------------- |
-| **Beta1.0** | - 🔗 [First reinforcement learning-driven model to be announced on July 5]()              |
+| **Beta 1.0** | - 🔗 [First reinforcement learning-driven model to be announced on July 5]()              |
