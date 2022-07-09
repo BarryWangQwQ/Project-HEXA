@@ -1,4 +1,5 @@
-# Project-HEXA
+# **Project-HEXA**
+
 ## Project HEXA Robot's Open API & Open Source Documentation  
 <br>  
 
