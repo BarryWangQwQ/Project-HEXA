@@ -8,8 +8,6 @@
 
 <br>
 
-###First reinforcement learning-driven model to be announced on July 5  
-
 # Model-driven
 
 | **Model**  | Get Link              |
